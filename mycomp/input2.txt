@@ -1,0 +1,11 @@
+read_comp A,	1,	2
+read_comp D,3,	4
+print_comp A,2
+read_comp B,6,1,5
+read_com E,	9,	10
+read_comp F,100.75,150.25
+
+add_comp A,B, C 
+sub_comp E , 2   
+mult_comp_comp A,B
+mult_comp_real B,C
